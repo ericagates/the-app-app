@@ -1,4 +1,6 @@
 # Project Name: The App App
+# Mentor: Anastasia Gaydashenko
+# Mentee: Erica Gates
 # The purpose of this project is to create an appointment booking app for
 # companies that provide services such as a salon, a personal trainer, or a
 # personal driver. etc. It would allow the service provider to enter their
